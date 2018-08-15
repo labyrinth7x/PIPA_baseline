@@ -1,4 +1,4 @@
-yntax on
+syntax on
 set smartindent
 
 set autoindent
